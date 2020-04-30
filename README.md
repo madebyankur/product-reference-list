@@ -1,7 +1,5 @@
 # SaaS Applications
 
----
-
 1. Abstract (https://goabstract.com)
 2. Algolia (https://algolia.com)
 3. Asana (https://asana.com)
