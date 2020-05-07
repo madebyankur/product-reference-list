@@ -1,4 +1,4 @@
-# SaaS Applications
+# SaaS Products
 
 1. [Abstract](https://goabstract.com)
 2. [Algolia](https://algolia.com)
